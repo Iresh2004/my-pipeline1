@@ -1,0 +1,8 @@
+jenkins=747
+
+if [ $jenkins -gt 654 ]
+then
+echo "the number is greater than 654 "
+else 
+echo "the number is less than 654 "
+fi
